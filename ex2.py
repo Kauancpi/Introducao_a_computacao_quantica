@@ -3,6 +3,7 @@ import cmath as cm
 
 x=input("Coloque a potencia do i: ")
 x=int(x)
+
 if (x%4==0):
     print("i^",x,"=1")
 
